@@ -1,0 +1,23 @@
+div 
+	{
+		margin: auto;
+		width: 500px;
+		background-color: yellow;
+	}
+li
+	{
+		font-size: 25px;
+		color: red;
+	}
+body {
+    display: flex;
+    justify-content: center;
+}
+img
+	{
+		width:500px;
+		margin-left:auto;
+		margin-right: auto;
+	}
+a:visited{ color: green;
+}
